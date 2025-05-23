@@ -137,13 +137,9 @@ Let’s turn data into impact, together.</h2>
 
 <h2 align = "center"> 🖥 MS Excel Dashboard Projects </h2> 
 
-| 🏥 [HR Analytics DashBoard](https://github.com/Gtshivanand/HR_Analytics_Dashboard)|
-| :-:| 
-| [<img src = "https://github.com/Gtshivanand/HR_Analytics_Dashboard/blob/main/HR%20%20Analytics.jpg" width = 500 height = 300/>](https://github.com/Gtshivanand/HR_Analytics_Dashboard)
-
-| 🏥 [Hotel Boooking Cancellation](https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS)|
-| :-:| 
-| [<img src = "https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS/blob/main/HOTEL%20BOOKING%20CANCELLATIONS%20ANALYSIS.webp" width = 500 height = 300/>](https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS)| 
+| 👥 [HR Analytics DashBoard](https://github.com/Gtshivanand/HR_Analytics_Dashboard)| 🏨 [Hotel Boooking Cancellation analysis](https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS)| [Bank Loan Analysis](https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard)
+| :-:| :-:| :-:| 
+| [<img src = "https://github.com/Gtshivanand/HR_Analytics_Dashboard/blob/main/HR%20%20Analytics.jpg" width = 500 height = 300/>](https://github.com/Gtshivanand/HR_Analytics_Dashboard)| [<img src = "https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS/blob/main/HOTEL%20BOOKING%20CANCELLATIONS%20ANALYSIS.webp" width = 500 height = 300/>](https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS)|  [<img src = "https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard/blob/main/Bank%20Loan%20Analysis/Bank%20Loan%20Analysis.jpeg" width = 500 height = 300/>](https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard)| 
 
 
 
