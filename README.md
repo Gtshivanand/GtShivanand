@@ -98,7 +98,7 @@ Let’s turn data into impact, together.</h2>
 - Gained expertise in data visualization and storytelling using Excel and PowerPoint by creating impactful charts and interactive dashboards.
   
 
-2) PwC Switzerland Power BI Job Simulation on Forage - March 2025
+2) PwC Switzerland Power BI Job Simulation on Forage - March 2025 | 🔗[Repository](https://github.com/Gtshivanand/PwC_Switzerland_PowerBI_Job_Simulation)
 
 - Completed a job simulation where I strengthened my PowerBI skills to better understand clients and their data visualisation needs.
 - Demonstrated expertise in data visualization through the creation of Power BI dashboards that effectively conveyed KPIs, showcasing the ability to 
