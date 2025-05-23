@@ -176,6 +176,22 @@ The rapid rate at which there is advancement in computing power and the freedom 
 
 <hr style="border:0.08px solid blue">
 
+<h3 align = "center">🤖⚙️ My Machine Learning Projects</h3>
+
+| 💉 [Vaccine Usage Prediction](https://github.com/Gtshivanand/Vaccine_Usage_Prediction-Using-Logistic-Regression-Algorithm) | 🏠 [House Price Prediction](https://github.com/Gtshivanand/House-Price-Prediction-using-Linear-Regression-Algorithm) | 📞 [Telco Customer Churn Prediction](https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis) |
+| :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/Gtshivanand/Vaccine_Usage_Prediction-Using-Logistic-Regression-Algorithm/blob/main/images/Vaccine%20Usage%20Prediction.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Vaccine_Usage_Prediction-Using-Logistic-Regression-Algorithm) | [<img src="https://github.com/Gtshivanand/House-Price-Prediction-using-Linear-Regression-Algorithm/blob/main/images/GrayBrickHouse-social-share.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/House-Price-Prediction-using-Linear-Regression-Algorithm) | [<img src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Images/Telco%20Customer%20Churn%20Prediction.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis) |
+
+| 🌍 [Travel Review Segmentation](https://github.com/Gtshivanand/Travel_Review_Segmentation-Using-Hierarchical-Clustering-Algorithm) | 🛍️ [Customer Purchase Prediction](https://github.com/Gtshivanand/customer_purchase_prediction_Micro_Numerosity_Analysis) | 🏏 [ICC Men's T20 World Cup 2024 Analysis](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024_Analysis) |
+| :-------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/Gtshivanand/Travel_Review_Segmentation-Using-Hierarchical-Clustering-Algorithm/blob/main/Time%20To%20Travel.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Travel_Review_Segmentation-Using-Hierarchical-Clustering-Algorithm) | [<img src="https://github.com/Gtshivanand/customer_purchase_prediction_Micro_Numerosity_Analysis/blob/main/Images/customer's.png" width="500" height="300"/>](https://github.com/Gtshivanand/customer_purchase_prediction_Micro_Numerosity_Analysis) | [<img src="https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024_Analysis/blob/main/images/India-beat-South-Africa-by-7-runs-ICC-T20-World.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024_Analysis) |
+
+| 📧 [Email Spam Detection](https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING) | ❤️ [Heart Disease Prediction](https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model) | 🏘️ [Real Estate Market Trends Analysis](https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm) |
+| :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
+| [<img src="https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING/blob/main/EMAIL%20SPAM%20DETECTION%20WITH%20MACHINE%20LEARNING/images/EmailSpamDetection.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING) | [<img src="https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model/blob/main/Heart%20Disease%20Prediction.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model) | [<img src="https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm/blob/main/Images/Real%20Estate%20Market%20Trends%20Analysis.webp" width="500" height="300"/>](https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm) |
+
+<hr style="border:0.08px solid blue">
+
 ## **📜 Certifications**:
 - 🏅 Post Graduate Program in Data Science and Analytics with Advanced ML Track - Imarticus Learning 
 - 🏅 Career Essentials in Data Analysis – Microsoft & LinkedIn 
@@ -186,22 +202,31 @@ The rapid rate at which there is advancement in computing power and the freedom 
 - 🏅 Project Excellence_Mastering your minor and major projects with real - world case studies - ExcelR 
 - 🏅 Data Analytics Training Program – CIT - Internship Studio 
 
+<hr style="border:0.08px solid blue">
+
 ## **✍ Blog & Writing**:
 
 Check out my case studies and project write-ups on [Medium](https://medium.com/@shivanandnashi97), where I share insights into the “why” behind my projects, my learning journey, and practical implementation tips.
+
+<hr style="border:0.08px solid blue">
 
 ## **📊 GitHub Stats**:
 ![](https://github-readme-stats.vercel.app/api?username=Gtshivanand&theme=dark&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Gtshivanand&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gtshivanand&theme=dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+<hr style="border:0.08px solid blue">
+
 ## **🏆 GitHub Trophies**:
 ![](https://github-profile-trophy.vercel.app/?username=Gtshivanand&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
+<hr style="border:0.08px solid blue">
 
 ## **🎬🔚 Summary**
 
 These are some of my __projects__, __blogs__ and __certifications__ that I have worked on and uploaded on __GitHub__. I would be looking forward to learning new technologies in the field of __AI__ and __machine learning__ by going through a few more courses and applying my knowledge to different projects. Feel free to reach out if you have any questions or need any explanations of the projects. Looking forward to sharing my knowledge with the community.
+
+<hr style="border:0.08px solid blue">
 
 ## **📧  Feedback and Suggestions**:
 
