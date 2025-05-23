@@ -1,11 +1,10 @@
 
-# 
-<h1 align="center">👋 Hi, I'm Shivanand Satyappa Nashi</h1>
-<h3 align="center">“Data is the new oil—but only if it's refined.”  
-Let’s turn data into impact, together.</h3>
+<h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />👋 Hi, I'm Shivanand Satyappa Nashi</h1>
+<h2 align="center">“Data is the new oil—but only if it's refined.”  
+Let’s turn data into impact, together.</h2>
 <img align="Center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanand-s-nashi-79579821a) | [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanandnashi97) | [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=mss7wio) | [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanandnashi97@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanand-s-nashi-79579821a)  [![](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanandnashi97)  [![](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/invites/contact/?utm_source=ig_contact_invite&utm_medium=copy_link&utm_content=mss7wio)  [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanandnashi97@gmail.com) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+917975156114) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=shivanandnashi97%40gmail.com) 
 
 # 💫 About Me:
 <br>I'm a passionate and detail-oriented Data Science & Analytics professional with hands-on experience in transforming raw data into meaningful business insights. With a strong foundation in Python, MySQL, Power BI, and machine learning, I specialize in end-to-end data science solutions — from data pre-processing and visualization to model deployment.<br><br>💡 I hold a Post Graduate Diploma in Data Science & Analytics from Imarticus Learning, and a Bachelor's degree in Computer Applications from Bangalore University. Over the course of multiple internships, I’ve executed diverse real-world projects like shipment price prediction, customer churn analysis, sales forecasting, fraud detection, and interactive dashboarding using Power BI and Excel.<br>
