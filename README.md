@@ -135,6 +135,11 @@ Let’s turn data into impact, together.</h2>
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 - 🔗Repository: https://github.com/Gtshivanand/Accenture-_North-_America--Data-Analytics-and-visualization-job-Simulation
 
+## **💼🎒 My Portfolio Overview**:
+
+
+
+
 
 
 ## **📜 Certifications**:
