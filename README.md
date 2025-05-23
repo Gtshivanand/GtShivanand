@@ -56,12 +56,13 @@ Let’s turn data into impact, together.</h2>
 <img src = "https://careersportal.ie/sites/default/files/2022-12/Work%20Experience.png" width="1000"/>
 
 
-1) Data Analytics Intern | Oasis Infobyte (Remote)                                                                   10th Jan 2025 -  15th Feb 2025
-
+1) Data Analytics Intern | Oasis Infobyte (Remote) | 10th Jan 2025 -  15th Feb 2025
+   
 - Worked on real-world data analytics projects including House Price Prediction, Wine Quality Analysis, Credit Card Fraud Detection, and Android App 
   Market Insights.
 - Performed data cleaning, preprocessing, exploratory data analysis (EDA), and data visualization using Python with tools such as Pandas, NumPy, 
   Matplotlib, and Seaborn.
+- 🔗 Project Repository: https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks
 
 2) Data Science Intern | CodSoft (Remote)                                                                      10th  Jan 2025 – 10th Feb 2025
 
@@ -69,19 +70,22 @@ Let’s turn data into impact, together.</h2>
   Python, scikit-learn, pandas, and visualization libraries (matplotlib, seaborn). 
 - Key projects include Titanic Survival Prediction, Movie Rating Prediction, Iris Flower Classification, and Sales Forecasting Using Python, each 
   demonstrating robust model development, data preprocessing, and insightful EDA.
+- 🔗 Project Repository: https://github.com/Gtshivanand/CODSOFT_DATA_SCIENCE_Internship
 
 3) Data Science Intern | Code Alpha (Remote)                                                                       15th Jan 2025  - 15th Feb 2025
 
 - Successfully completed projects including Unemployment Analysis with Python and Car Price Prediction with Machine Learning
 - Demonstrated strong understanding of data cleaning, feature selection, and model evaluation metrics.
 - Applied Logistic Regression, Random Forest, and SVM algorithms in model building.
- 
+- 🔗 Project Repository: https://github.com/Gtshivanand/CodeAlpha-Datascience_Intership
+
 4) Machine Learning Intern | iNeuron.ai (Remote)                                                                    21st  Nov 2024 - 8th  Jan 2025 
 
 - Developed a machine learning-based shipment pricing prediction system to address real-world supply chain cost optimization.
 - Applied and compared regression models (Linear, Ridge, Lasso, Random Forest), achieving over  99% accuracy through advanced feature engineering and 
   tuning.
 - Deployed the optimal model using Flask for real-time shipment cost prediction via a user-friendly web  application.
+- 🔗 Project Repository: https://github.com/Gtshivanand/Shipment_Pricing_Prediction_Analysis
 
 ✅ Hands-on exposure to real-world data, model building, dashboarding, and deploying ML solutions during these internships.
 
@@ -94,6 +98,7 @@ Let’s turn data into impact, together.</h2>
 - Acquired proficiency in automation by learning to record macros and script in Visual Basic for Applications (VBA), developing two functional macros 
   integrated with buttons using account sales data.
 - Gained expertise in data visualization and storytelling using Excel and PowerPoint by creating impactful charts and interactive dashboards.
+  
 
 2) PwC Switzerland Power BI Job Simulation on Forage - March 2025
 
@@ -114,19 +119,21 @@ Let’s turn data into impact, together.</h2>
   making.
 - Leveraged acquired data analytics and insights from previous tasks to create comprehensive reports for the Category Manager, facilitating informed 
   strategic decisions and enhancing commercial applications.
+- 🔗Repository: https://github.com/Gtshivanand/Quantium-Data-Analytics-Job-Simulation
 
 4) Tata Data Visualisation: Empowering Business with Effective Insights Job Simulation on Forage - January 2025
 
 - Completed a simulation involving creating data visualizations for Tata Consultancy Services.
 - Prepared questions for a meeting with client senior leadership.
 - Created visuals for data analysis to help executives with effective decision making.
+- 🔗Repository: https://github.com/Gtshivanand/Tata_Data-_Visualisation-Empowering-Businees-with-Effective-Insights
 
 5) Accenture North America Data Analytics and Visualization Job Simulation on Forage - September 2024
 
 - Completed a simulation focused on advising a hypothetical social media client as a Data Analyst at Accenture.
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
-
+- 🔗Repository: https://github.com/Gtshivanand/Accenture-_North-_America--Data-Analytics-and-visualization-job-Simulation
 
 
 
