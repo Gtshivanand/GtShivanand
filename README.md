@@ -1,13 +1,23 @@
-<h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />👋 Hi, I'm Shivanand Satyappa Nashi</h1>
+<h1 align = "center"><img src="https://github.com/suhasmaddali/GIF-files/blob/main/animat-campfire-color.gif" width="75" />Hi, I'm Shivanand Satyappa Nashi👋 </h1>
 <h2 align="center">“Data is the new oil—but only if it's refined.”  
 Let’s turn data into impact, together.</h2>
 <img align="Center" alt="Coding" width="1000" src="https://i.pinimg.com/originals/fc/71/63/fc71635c7f1b09ed30413f59bb749582.gif">
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanand-s-nashi-79579821a) [![](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanandnashi97) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanandnashi97@gmail.com) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+917975156114) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=shivanandnashi97%40gmail.com) 
 
+I'm passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. 
+
+The rapid rate at which there is advancement in computing power and the freedom to take a large volume of data pushes the field of Artificial Intelligence to a whole new level.
+
+
+<hr style="border:0.08px solid blue">
+
 ## **💫 About Me:**
 
 <br>I'm a passionate and detail-oriented Data Science & Analytics professional with hands-on experience in transforming raw data into meaningful business insights. With a strong foundation in Python, MySQL, Power BI, and machine learning, I specialize in end-to-end data science solutions — from data pre-processing and visualization to model deployment.<br><br>💡 I hold a Post Graduate Diploma in Data Science & Analytics from Imarticus Learning, and a Bachelor's degree in Computer Applications from Bangalore University. Over the course of multiple internships, I’ve executed diverse real-world projects like shipment price prediction, customer churn analysis, sales forecasting, fraud detection, and interactive dashboarding using Power BI and Excel.<br>
+
+
+<hr style="border:0.08px solid blue">
 
 ## **💻 Tech Stack & Tools**:
 
@@ -51,6 +61,9 @@ Let’s turn data into impact, together.</h2>
 [![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 
+
+<hr style="border:0.08px solid blue">
+
 ## **🖥 My Work Experience**:
 
 <img src = "https://careersportal.ie/sites/default/files/2022-12/Work%20Experience.png" width="1000"/>
@@ -86,6 +99,8 @@ Let’s turn data into impact, together.</h2>
 
 
 ✅ Hands-on exposure to real-world data, model building, dashboarding, and deploying ML solutions during these internships.
+
+<hr style="border:0.08px solid blue">
 
 ## **💼Forage Virtual Internship Job simulation  work Experience**:
 
@@ -132,6 +147,7 @@ Let’s turn data into impact, together.</h2>
 - Cleaned, modelled and analyzed 7 datasets to uncover insights into content trends to inform strategic decisions.
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
+<hr style="border:0.08px solid blue">
 
 ## **💼🎒 My Portfolio Overview**:
 
@@ -141,6 +157,7 @@ Let’s turn data into impact, together.</h2>
 | :-:| :-:| :-:| 
 | [<img src = "https://github.com/Gtshivanand/HR_Analytics_Dashboard/blob/main/HR%20%20Analytics.jpg" width = 500 height = 300/>](https://github.com/Gtshivanand/HR_Analytics_Dashboard)| [<img src = "https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS/blob/main/HOTEL%20BOOKING%20CANCELLATIONS%20ANALYSIS.webp" width = 500 height = 300/>](https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS)|  [<img src = "https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard/blob/main/Bank%20Loan%20Analysis/Bank%20Loan%20Analysis.jpeg" width = 500 height = 300/>](https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard)| 
 
+<hr style="border:0.08px solid blue">
 
 <h2 align = "center"> 🖥MySQL Projects </h2> 
 
@@ -148,10 +165,16 @@ Let’s turn data into impact, together.</h2>
 | :-: | :-: | :-: |
 | [<img src="https://github.com/Gtshivanand/SuperStoreSales_Analysis-MySQL/blob/main/SuperStoreSales_Analysis.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/SuperStoreSales_Analysis-MySQL) | [<img src="https://github.com/Gtshivanand/Stock-Market-Analysis-Using-MySQL/blob/main/Stock%20Market%20Analysis.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Stock-Market-Analysis-Using-MySQL) | [<img src="https://github.com/Gtshivanand/Logistic-Company-s-Data-Analysis---MySQL/blob/main/Logistic%20Company's%20Data%20Analysis.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Logistic-Company-s-Data-Analysis---MySQL) |
 
+<hr style="border:0.08px solid blue">
+
+<h2 align = "center"> 📊 Power BI Analysis Projects</h2> 
 
 
+| 🏏 [**ICC T20 World Cup 2024 Analysis**](https://github.com/Gtshivanand/ICC-T20-World-Cup-2024-Data-Analysis-Power-BI-Dashboard) | 📞 [**Telecom Churn Analysis Dashboard**](https://github.com/Gtshivanand/TELECOM_CHURN_ANALYSIS_POWER_BI_DASHBOARD) | 🚗 [**Car Sales Analysis Dashboard**](https://github.com/Gtshivanand/Car_Sales_Analysis_PowerBI-Dashboard) |
+|:--:|:--:|:--:|
+| [<img src="https://github.com/Gtshivanand/ICC-T20-World-Cup-2024-Data-Analysis-Power-BI-Dashboard/blob/main/Images/icc-men-s-t20-world-cup-logo-2024-free-vector.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/ICC-T20-World-Cup-2024-Data-Analysis-Power-BI-Dashboard) | [<img src="https://github.com/Gtshivanand/TELECOM_CHURN_ANALYSIS_POWER_BI_DASHBOARD/blob/main/Screenshots/Telecommunication.png" width="500" height="300"/>](https://github.com/Gtshivanand/TELECOM_CHURN_ANALYSIS_POWER_BI_DASHBOARD) | [<img src="https://private-user-images.githubusercontent.com/167347744/412049618-c6aeb6c9-6e9f-4a4c-9442-cbc317f8d88a.png" width="500" height="300"/>](https://github.com/Gtshivanand/Car_Sales_Analysis_PowerBI-Dashboard) |
 
-
+<hr style="border:0.08px solid blue">
 
 ## **📜 Certifications**:
 - 🏅 Post Graduate Program in Data Science and Analytics with Advanced ML Track - Imarticus Learning 
