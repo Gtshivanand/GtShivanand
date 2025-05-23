@@ -51,7 +51,10 @@ Let’s turn data into impact, together.</h2>
 [![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 
-# **🖥 My Work Experience **:
+## **🖥 My Work Experience**:
+
+<img src = "https://careersportal.ie/sites/default/files/2022-12/Work%20Experience.png" width="1000"/>
+
 
 1) Data Analytics Intern | Oasis Infobyte (Remote)                                                                   10th Jan 2025 -  15th Feb 2025
 
@@ -125,27 +128,7 @@ Let’s turn data into impact, together.</h2>
 - Prepared a PowerPoint deck and video presentation to communicate key insights for the client and internal stakeholders.
 
 
-## 🧠 Key Projects
 
-### 📦 [Shipment Pricing Prediction (iNeuron Internship)](https://github.com/Gtshivanand/Shipment_Pricing_Prediction_Analysis)
-Developed a Flask-based ML web app to predict shipment prices using regression models and advanced feature engineering.  
-*Key Skills:* Python, Regression, Flask, Deployment
-
-### 🚗 [Car Sales Analysis – Power BI Dashboard](https://github.com/Gtshivanand/Car-Sales-Analysis-PowerBI)
-Created an interactive dashboard tracking sales KPIs (YOY, MTD, YTD) across brands and regions.  
-*Key Skills:* Power BI, DAX, Data Cleaning, KPI Visualization
-
-### 🏡 [House Price Prediction](https://github.com/Gtshivanand/House-Price-Prediction)
-Built regression models to predict house prices using multivariate statistical analysis and data preprocessing.  
-*Key Skills:* Linear Regression, Data Wrangling, Feature Selection
-
-### 🧾 [Bank Loan Portfolio Analysis – Excel Dashboard](https://github.com/Gtshivanand/Bank-Loan-Excel-Dashboard)
-Designed a slicer-driven Excel dashboard for analyzing loan approvals, defaults, and client segmentation.  
-*Key Skills:* Excel, Pivot Tables, Interactive Filtering
-
-### 🍷 [Wine Quality Prediction (Oasis Internship)](https://github.com/Gtshivanand/OIBSHIP_Data_Analytics_Intership_Tasks)
-Classified wine quality based on chemical attributes using various classification algorithms.  
-*Key Skills:* Classification, Model Evaluation, Sklearn
 
 ## **📜 Certifications**:
 - 🏅 Post Graduate Program in Data Science and Analytics with Advanced ML Track - Imarticus Learning 
@@ -170,11 +153,19 @@ Check out my case studies and project write-ups on [Medium](https://medium.com/@
 ![](https://github-profile-trophy.vercel.app/?username=Gtshivanand&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
-## 🎬🔚 Summary
+## **🎬🔚 Summary**
 
 These are some of my __projects__, __blogs__ and __certifications__ that I have worked on and uploaded on __GitHub__. I would be looking forward to learning new technologies in the field of __AI__ and __machine learning__ by going through a few more courses and applying my knowledge to different projects. Feel free to reach out if you have any questions or need any explanations of the projects. Looking forward to sharing my knowledge with the community.
 
-Below are some of the ways we might connect. Feel free to share your thoughts. Thanks!😁
+## **📧  Feedback and Suggestions**:
 
+Thank you for visiting my repository! If you have any questions or feedback, feel free to reach out.
 
+I’d love to hear your thoughts, feedback, and suggestions! Feel free to connect with me:
+
+🖇 __LinkedIn:__ __https://www.linkedin.com/in/shivanand-s-nashi-79579821a/__
+
+📫 __Email:__ __shivanandnashi97@gmail.com__
+
+✍🏻 __Medium:__ __https://medium.com/@shivanandnashi97com__
 
