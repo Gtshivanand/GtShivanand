@@ -142,6 +142,12 @@ Let’s turn data into impact, together.</h2>
 | [<img src = "https://github.com/Gtshivanand/HR_Analytics_Dashboard/blob/main/HR%20%20Analytics.jpg" width = 500 height = 300/>](https://github.com/Gtshivanand/HR_Analytics_Dashboard)| [<img src = "https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS/blob/main/HOTEL%20BOOKING%20CANCELLATIONS%20ANALYSIS.webp" width = 500 height = 300/>](https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS)|  [<img src = "https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard/blob/main/Bank%20Loan%20Analysis/Bank%20Loan%20Analysis.jpeg" width = 500 height = 300/>](https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard)| 
 
 
+<h2 align = "center"> 🖥MySQL Projects </h2> 
+
+| 🛒 [SuperStore Sales Analysis](https://github.com/Gtshivanand/SuperStoreSales_Analysis-MySQL) | 📈 [Stock Market Analysis](https://github.com/Gtshivanand/Stock-Market-Analysis-Using-MySQL) | 🚚 [Logistic Company's Data Analysis](https://github.com/Gtshivanand/Logistic-Company-s-Data-Analysis---MySQL) |
+| :-: | :-: | :-: |
+| [<img src="https://github.com/Gtshivanand/SuperStoreSales_Analysis-MySQL/blob/main/SuperStoreSales_Analysis.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/SuperStoreSales_Analysis-MySQL) | [<img src="https://github.com/Gtshivanand/Stock-Market-Analysis-Using-MySQL/blob/main/Stock%20Market%20Analysis.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Stock-Market-Analysis-Using-MySQL) | [<img src="https://github.com/Gtshivanand/Logistic-Company-s-Data-Analysis---MySQL/blob/main/Logistic%20Company's%20Data%20Analysis.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Logistic-Company-s-Data-Analysis---MySQL) |
+
 
 
 
