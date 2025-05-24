@@ -16,6 +16,15 @@ The rapid rate at which there is advancement in computing power and the freedom 
 
 <br>I'm a passionate and detail-oriented Data Science & Analytics professional with hands-on experience in transforming raw data into meaningful business insights. With a strong foundation in Python, MySQL, Power BI, and machine learning, I specialize in end-to-end data science solutions — from data pre-processing and visualization to model deployment.<br><br>💡 I hold a Post Graduate Diploma in Data Science & Analytics from Imarticus Learning, and a Bachelor's degree in Computer Applications from Bangalore University. Over the course of multiple internships, I’ve executed diverse real-world projects like shipment price prediction, customer churn analysis, sales forecasting, fraud detection, and interactive dashboarding using Power BI and Excel.<br>
 
+<hr style="border:0.08px solid blue">
+
+- Imarticus  Learning , Koramangala, Bengaluru  | 24 Sept  2024 - 31 Mar 2025
+  
+  PGDA [Post Graduation in  Data science and analytics]  (Diploma)                    
+- Acharya Institute of Management  and  Science [ Bangalore University ] | 2021 - 2024
+
+  BCA[Bachelor of computer Applications] , CGPA  - 8.60
+
 
 <hr style="border:0.08px solid blue">
 
