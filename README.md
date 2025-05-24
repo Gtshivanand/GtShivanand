@@ -5,10 +5,11 @@ Let’s turn data into impact, together.</h2>
 
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivanand-s-nashi-79579821a) [![](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@shivanandnashi97) [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:shivanandnashi97@gmail.com) [![](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=+917975156114) [![](https://img.shields.io/badge/Google%20Meet-32A350?style=for-the-badge&logo=google-meet&logoColor=white)](https://meet.google.com) [![](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://us05web.zoom.us/launch/chat?src=direct_chat_link&email=shivanandnashi97%40gmail.com) 
 
-I'm passionate about __Machine Learning__, __Data Science__, __Large Language Models (LLMs)__ and __Generative AI__. 
+I'm  passionate Data Science and Analytics professional with expertise in MS Excel,Python, MySQL, Power BI,Tabeleau and Machine Learning. I specialize in transforming raw data into actionable insights across the entire data pipeline—from data cleaning to model deployment.
 
-The rapid rate at which there is advancement in computing power and the freedom to take a large volume of data pushes the field of Artificial Intelligence to a whole new level.
-
+- 📊 Skilled in data storytelling, predictive modeling, and generative AI (LLMs).
+- 📁 Explore my projects to see real-world applications of analytics and ML.
+- 🎓 Certified in Data Science with hands-on experience through internships and capstone projects.
 
 <hr style="border:0.08px solid blue">
 
