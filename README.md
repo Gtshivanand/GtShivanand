@@ -43,10 +43,12 @@ The rapid rate at which there is advancement in computing power and the freedom 
 [![MLflow](https://img.shields.io/badge/mlflow-d9ead3?style=for-the-badge&logo=numpy&logoColor=blue)](https://mlflow.org)
 
 ### **📊 Data & Visualization**:
-[![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)](https://powerbi.microsoft.com/en-us/)
-[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)](https://www.tableau.com)
 [![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)](https://colab.research.google.com)
 [![Anaconda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)](https://www.anaconda.com)
+
+#### 📊 Business Intelligence:
+[![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)](https://powerbi.microsoft.com/)
+[![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)](https://www.tableau.com/)
 
 ### **🗃️ Databases**:
 [![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](https://www.mysql.com)
@@ -63,6 +65,7 @@ The rapid rate at which there is advancement in computing power and the freedom 
 [![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
 [![GitLab](https://img.shields.io/badge/GitLab-171717?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com)
 [![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2671E5?style=for-the-badge&logo=githubactions&logoColor=white)](https://github.com/features/actions)
+[![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
 [![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=Canva&logoColor=white)](https://www.canva.com)
 
 ### **📎 Microsoft Office Suite**:
@@ -70,6 +73,10 @@ The rapid rate at which there is advancement in computing power and the freedom 
 [![PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)](https://www.microsoft.com/en-us/microsoft-365/powerpoint)
 [![Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)](https://www.office.com)
 
+### 🤖 Gen AI Tools:
+[![ChatGPT](https://img.shields.io/badge/ChatGPT-00A67E?style=for-the-badge&logo=openai&logoColor=white)](https://openai.com/chatgpt)
+[![GitHub Copilot](https://img.shields.io/badge/GitHub%20Copilot-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/features/copilot)
+[![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://deepmind.google/technologies/gemini/)
 
 <hr style="border:0.08px solid blue">
 
@@ -202,14 +209,14 @@ The rapid rate at which there is advancement in computing power and the freedom 
 <hr style="border:0.08px solid blue">
 
 ## **📜 Certifications**:
-- 🏅 Post Graduate Program in Data Science and Analytics with Advanced ML Track - Imarticus Learning 
-- 🏅 Career Essentials in Data Analysis – Microsoft & LinkedIn 
-- 🏅 Google Analytics Certification - United Latino Students Association 
-- 🏅 Global Marketplace for Career &Skill Development - Global Emerging Leadership Programs (GELP)
-- 🏅 Data Science & Analytics – HP LIFE 
-- 🏅 Career Essentials in Generative AI – Microsoft 
-- 🏅 Project Excellence_Mastering your minor and major projects with real - world case studies - ExcelR 
-- 🏅 Data Analytics Training Program – CIT - Internship Studio 
+- 🏅 [Post Graduate Program in Data Science and Analytics with Advanced ML Track - Imarticus Learning](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Post%20Graduate%20Program%20in%20Data%20Science%20and%20Analytics%20with%20Advanced%20ML%20Track.pdf) 
+- 🏅 [Career Essentials in Data Analysis – Microsoft & LinkedIn](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn%20.pdf)
+- 🏅 [Google Analytics Certification - United Latino Students Association](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Google%20Analytics%20Certification.pdf) 
+- 🏅 [Global Marketplace for Career &Skill Development - Global Emerging Leadership Programs (GELP)](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Global%20Marketplace%20for%20Career%20%26Skill%20Development%202024.pdf)
+- 🏅 [Data Science & Analytics – HP LIFE](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Data%20Science%20%26%20Analytics-HP%20Life.pdf)
+- 🏅 [Career Essentials in Generative AI – Microsoft](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/CertificateOfCompletion_Career%20Essentials%20in%20Generative%20AI%20by%20Microsoft%20and%20LinkedIn.pdf)
+- 🏅 [Project Excellence_Mastering your minor and major projects with real - world case studies - ExcelR](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Project%20Excellence_Mastering%20your%20minor%20and%20major%20projects%20with%20real%20-%20world%20case%20studies..pdf) 
+- 🏅 [Data Analytics Training Program – CIT - Internship Studio](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Shivanand%20Satyappa%20Nashi%20-%20Participation%20Certificate.pdf)
 
 <hr style="border:0.08px solid blue">
 
