@@ -213,7 +213,7 @@ I'm  passionate Data Science and Analytics professional with expertise in MS Exc
 
 | 🛋️ [Furniture Store Sales Forecasting](https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling) | 📺 [YouTube Data Analysis](https://github.com/Gtshivanand/YouTube_Data_Analysis) |
 |:--:|:--:|
-| [<img src="https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling/blob/main/Super%20Store%20Sales.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling) | [<img src="https://github.com/Gtshivanand/YouTube_Data_Analysis/blob/main/YouTube%20Data%20Analysis/Images/Youtube.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/YouTube_Data_Analysis) |
+| [<img src="https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling/blob/main/furniture%20store.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling) | [<img src="https://github.com/Gtshivanand/YouTube_Data_Analysis/blob/main/YouTube%20Data%20Analysis/Images/Youtube.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/YouTube_Data_Analysis) |
 
 
 
