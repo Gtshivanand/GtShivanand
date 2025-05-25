@@ -209,6 +209,17 @@ I'm  passionate Data Science and Analytics professional with expertise in MS Exc
 
 <hr style="border:0.08px solid blue">
 
+<h3 align = "center">🤖⚙️Data Visualization Projects</h3>
+
+| 🛋️ [Furniture Store Sales Forecasting](https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling) | 📺 [YouTube Data Analysis](https://github.com/Gtshivanand/YouTube_Data_Analysis) |
+|:--:|:--:|
+| [<img src="https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling/blob/main/Super%20Store%20Sales.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling) | [<img src="https://github.com/Gtshivanand/YouTube_Data_Analysis/blob/main/YouTube%20Data%20Analysis/Images/Youtube.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/YouTube_Data_Analysis) |
+
+
+
+
+<hr style="border:0.08px solid blue">
+
 ## **📜 Certifications**:
 - 🏅 [Post Graduate Program in Data Science and Analytics with Advanced ML Track - Imarticus Learning](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Post%20Graduate%20Program%20in%20Data%20Science%20and%20Analytics%20with%20Advanced%20ML%20Track.pdf) 
 - 🏅 [Career Essentials in Data Analysis – Microsoft & LinkedIn](https://github.com/Gtshivanand/Documentation/blob/main/Certificates%20%26%20Achivements/Career%20Essentials%20in%20Data%20Analysis%20by%20Microsoft%20and%20LinkedIn%20.pdf)
