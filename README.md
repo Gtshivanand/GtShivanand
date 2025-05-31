@@ -168,7 +168,7 @@ I'm  passionate Data Science and Analytics professional with expertise in MS Exc
 
 ## **💼🎒 My Portfolio Overview**:
 
-<h2 align = "center"> 🖥 MS Excel Dashboard Projects </h2> 
+<h2 align = "center"> 🖥MS Excel Dashboard Projects </h2> 
 
 | 👥 [HR Analytics DashBoard](https://github.com/Gtshivanand/HR_Analytics_Dashboard)| 🏨 [Hotel Boooking Cancellation analysis](https://github.com/Gtshivanand/HOTEL-BOOKING-CANCELLATIONS-ANALYSIS)| [Bank Loan Analysis](https://github.com/Gtshivanand/Bank-Loan-Analysis-Dashboard)
 | :-:| :-:| :-:| 
@@ -195,17 +195,18 @@ I'm  passionate Data Science and Analytics professional with expertise in MS Exc
 
 <h3 align = "center">🤖⚙️ My Machine Learning Projects</h3>
 
-| 💉 [Vaccine Usage Prediction](https://github.com/Gtshivanand/Vaccine_Usage_Prediction-Using-Logistic-Regression-Algorithm) | 🏠 [House Price Prediction](https://github.com/Gtshivanand/House-Price-Prediction-using-Linear-Regression-Algorithm) | 📞 [Telco Customer Churn Prediction](https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis) |
-| :-------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------: |
+ | 💉 [Vaccine Usage Prediction](https://github.com/Gtshivanand/Vaccine_Usage_Prediction-Using-Logistic-Regression-Algorithm) | 🏠 [House Price Prediction](https://github.com/Gtshivanand/House-Price-Prediction-using-Linear-Regression-Algorithm) | 📞 [Telco Customer Churn Prediction](https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis) |
+| :-: | :-: | :-: |
 | [<img src="https://github.com/Gtshivanand/Vaccine_Usage_Prediction-Using-Logistic-Regression-Algorithm/blob/main/images/Vaccine%20Usage%20Prediction.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Vaccine_Usage_Prediction-Using-Logistic-Regression-Algorithm) | [<img src="https://github.com/Gtshivanand/House-Price-Prediction-using-Linear-Regression-Algorithm/blob/main/images/GrayBrickHouse-social-share.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/House-Price-Prediction-using-Linear-Regression-Algorithm) | [<img src="https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis/blob/main/Images/Telco%20Customer%20Churn%20Prediction.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Telco_Customer_Churn_Prediction_Analysis) |
 
 | 🌍 [Travel Review Segmentation](https://github.com/Gtshivanand/Travel_Review_Segmentation-Using-Hierarchical-Clustering-Algorithm) | 🛍️ [Customer Purchase Prediction](https://github.com/Gtshivanand/customer_purchase_prediction_Micro_Numerosity_Analysis) | 🏏 [ICC Men's T20 World Cup 2024 Analysis](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024_Analysis) |
-| :-------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------: |
+| :-: | :-: | :-: |
 | [<img src="https://github.com/Gtshivanand/Travel_Review_Segmentation-Using-Hierarchical-Clustering-Algorithm/blob/main/Time%20To%20Travel.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Travel_Review_Segmentation-Using-Hierarchical-Clustering-Algorithm) | [<img src="https://github.com/Gtshivanand/customer_purchase_prediction_Micro_Numerosity_Analysis/blob/main/Images/customer's.png" width="500" height="300"/>](https://github.com/Gtshivanand/customer_purchase_prediction_Micro_Numerosity_Analysis) | [<img src="https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024_Analysis/blob/main/images/India-beat-South-Africa-by-7-runs-ICC-T20-World.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/ICC_MENS_T20_WORLDCUP__2024_Analysis) |
 
-| 📧 [Email Spam Detection](https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING) | ❤️ [Heart Disease Prediction](https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model) | 🏘️ [Real Estate Market Trends Analysis](https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm) |
-| :----------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------: |
-| [<img src="https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING/blob/main/EMAIL%20SPAM%20DETECTION%20WITH%20MACHINE%20LEARNING/images/EmailSpamDetection.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING) | [<img src="https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model/blob/main/Heart%20Disease%20Prediction.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model) | [<img src="https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm/blob/main/Images/Real%20Estate%20Market%20Trends%20Analysis.webp" width="500" height="300"/>](https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm) |
+| ❤️ [Heart Disease Prediction](https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model) | 🏘️ [Real Estate Market Trends Analysis](https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm) |
+| :-: | :-: |
+| [<img src="https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model/blob/main/Heart%20Disease%20Prediction.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Heart-Disease-Prediction-Using-Decision-Tree-model) | [<img src="https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm/blob/main/Images/Real%20Estate%20Market%20Trends%20Analysis.webp" width="500" height="300"/>](https://github.com/Gtshivanand/Real_Estate_Market_Trends-_Analysis--Using-PCA-Algorithm) |
+
 
 <hr style="border:0.08px solid blue">
 
@@ -214,6 +215,14 @@ I'm  passionate Data Science and Analytics professional with expertise in MS Exc
 | 🛋️ [Furniture Store Sales Forecasting](https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling) | 📺 [YouTube Data Analysis](https://github.com/Gtshivanand/YouTube_Data_Analysis) | 📱 [Google Play App Category Prediction](https://github.com/Gtshivanand/Google-Play-App-Category-Prediction) |
 |:--:|:--:|:--:|
 | [<img src="https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling/blob/main/furniture%20store.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Forecasting-the-sales-of-a-furniture-store-Using-Time-Series-Modelling) | [<img src="https://github.com/Gtshivanand/YouTube_Data_Analysis/blob/main/YouTube%20Data%20Analysis/Images/Youtube.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/YouTube_Data_Analysis) | [<img src="https://github.com/Gtshivanand/Google-Play-App-Category-Prediction/blob/main/Google%20Play%20App%20Category%20Prediction/Images/Google%20Play%20Store.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/Google-Play-App-Category-Prediction) |
+
+<hr style="border:0.08px solid blue">
+
+<h3 align = "center">🤖⚙️MY Natural Language Processing(NLP) Projects</h3>
+
+| 🐦 [Twitter Sentiment Prediction](https://github.com/Gtshivanand/Twitter_Sentiment_Prediction_Analysis) | 📧 [Email Spam Detection](https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING) |
+| :-: | :-: |
+| [<img src="https://github.com/Gtshivanand/Twitter_Sentiment_Prediction_Analysis/blob/main/images/Twitter-sentiment-analysis-768x402.webp" width="500" height="300"/>](https://github.com/Gtshivanand/Twitter_Sentiment_Prediction_Analysis) | [<img src="https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING/blob/main/EMAIL%20SPAM%20DETECTION%20WITH%20MACHINE%20LEARNING/images/EmailSpamDetection.jpg" width="500" height="300"/>](https://github.com/Gtshivanand/EMAIL-SPAM-DETECTION-WITH-MACHINE-LEARNING) |
 
 <hr style="border:0.08px solid blue">
 
